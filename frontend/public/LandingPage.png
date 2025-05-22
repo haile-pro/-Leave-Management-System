@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#f0f4f8"/>
+  <rect x="50" y="50" width="700" height="500" rx="10" fill="#ffffff" stroke="#e2e8f0" stroke-width="2"/>
+  <rect x="50" y="50" width="700" height="80" rx="10" fill="#4f46e5"/>
+  <text x="100" y="100" font-family="Arial" font-size="24" font-weight="bold" fill="#ffffff">Leave Management System</text>
+  <rect x="200" y="200" width="400" height="60" rx="5" fill="#ffffff" stroke="#e2e8f0" stroke-width="2"/>
+  <text x="220" y="240" font-family="Arial" font-size="18" fill="#64748b">Username</text>
+  <rect x="200" y="280" width="400" height="60" rx="5" fill="#ffffff" stroke="#e2e8f0" stroke-width="2"/>
+  <text x="220" y="320" font-family="Arial" font-size="18" fill="#64748b">Password</text>
+  <rect x="200" y="360" width="400" height="60" rx="5" fill="#4f46e5"/>
+  <text x="370" y="400" font-family="Arial" font-size="18" font-weight="bold" fill="#ffffff">Login</text>
+  <text x="400" y="500" font-family="Arial" font-size="14" fill="#64748b" text-anchor="middle">Landing Page</text>
+</svg>

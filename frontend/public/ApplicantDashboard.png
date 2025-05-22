@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#f0f4f8"/>
+  <rect x="50" y="50" width="700" height="500" rx="10" fill="#ffffff" stroke="#e2e8f0" stroke-width="2"/>
+  <rect x="50" y="50" width="200" height="500" rx="10" fill="#f8fafc"/>
+  <text x="100" y="100" font-family="Arial" font-size="18" font-weight="bold" fill="#334155">Applicant Dashboard</text>
+  <circle cx="125" cy="150" r="30" fill="#4f46e5" opacity="0.2"/>
+  <text x="125" y="155" font-family="Arial" font-size="14" font-weight="bold" fill="#4f46e5" text-anchor="middle">JD</text>
+  <text x="125" y="190" font-family="Arial" font-size="14" fill="#334155" text-anchor="middle">John Doe</text>
+  <line x1="75" y1="220" x2="175" y2="220" stroke="#e2e8f0" stroke-width="2"/>
+  <text x="100" y="250" font-family="Arial" font-size="14" fill="#64748b">Dashboard</text>
+  <text x="100" y="290" font-family="Arial" font-size="14" fill="#4f46e5">My Requests</text>
+  <text x="100" y="330" font-family="Arial" font-size="14" fill="#64748b">New Request</text>
+  <text x="100" y="370" font-family="Arial" font-size="14" fill="#64748b">Settings</text>
+  <text x="100" y="500" font-family="Arial" font-size="14" fill="#64748b">Logout</text>
+  <rect x="280" y="100" width="440" height="80" rx="5" fill="#4f46e5"/>
+  <text x="320" y="145" font-family="Arial" font-size="16" fill="#ffffff">Welcome back, John Doe</text>
+  <text x="320" y="170" font-family="Arial" font-size="14" fill="#ffffff">You have 2 pending leave requests</text>
+  <rect x="280" y="200" width="440" height="100" rx="5" fill="#ffffff" stroke="#e2e8f0" stroke-width="2"/>
+  <text x="300" y="230" font-family="Arial" font-size="16" font-weight="bold" fill="#334155">Annual Leave</text>
+  <text x="300" y="255" font-family="Arial" font-size="14" fill="#64748b">May 15, 2023 - May 20, 2023</text>
+  <text x="300" y="280" font-family="Arial" font-size="14" fill="#64748b">Reason: Family vacation</text>
+  <rect x="600" y="240" width="100" height="30" rx="15" fill="#fef3c7"/>
+  <text x="650" y="260" font-family="Arial" font-size="14" fill="#d97706" text-anchor="middle">Pending</text>
+  <rect x="280" y="320" width="440" height="100" rx="5" fill="#ffffff" stroke="#e2e8f0" stroke-width="2"/>
+  <text x="300" y="350" font-family="Arial" font-size="16" font-weight="bold" fill="#334155">Sick Leave</text>
+  <text x="300" y="375" font-family="Arial" font-size="14" fill="#64748b">April 3, 2023 - April 5, 2023</text>
+  <text x="300" y="400" font-family="Arial" font-size="14" fill="#64748b">Reason: Flu</text>
+  <rect x="600" y="360" width="100" height="30" rx="15" fill="#dcfce7"/>
+  <text x="650" y="380" font-family="Arial" font-size="14" fill="#16a34a" text-anchor="middle">Approved</text>
+  <rect x="280" y="440" width="440" height="100" rx="5" fill="#ffffff" stroke="#e2e8f0" stroke-width="2"/>
+  <text x="300" y="470" font-family="Arial" font-size="16" font-weight="bold" fill="#334155">Personal Leave</text>
+  <text x="300" y="495" font-family="Arial" font-size="14" fill="#64748b">March 10, 2023 - March 10, 2023</text>
+  <text x="300" y="520" font-family="Arial" font-size="14" fill="#64748b">Reason: Doctor appointment</text>
+  <rect x="600" y="480" width="100" height="30" rx="15" fill="#dcfce7"/>
+  <text x="650" y="500" font-family="Arial" font-size="14" fill="#16a34a" text-anchor="middle">Approved</text>
+</svg>
