@@ -40,29 +40,29 @@ API documentation is available through Swagger UI at `/api-docs` when running th
 ## Dashboard Screenshots
 
 ### Landing Page
-![Landing Page](./frontend/public/LandingPage.png)
+![Landing Page](./screenshots/LandingPage.png)
 *The entry point of the application providing login access and system overview*
 
 ### Applicant Dashboard
-![Applicant Dashboard](./frontend/public/ApplicantDashboard.png)
+![Applicant Dashboard](./screenshots/ApplicantDashboard.png)
 *Interface for employees to submit and track their leave requests*
 
 ### Department Head Dashboard
-![Department Head Dashboard](./frontend/public/DepartmentHeadDashboard.png)
+![Department Head Dashboard](./screenshots/DepartmentHeadDashboard.png)
 *Dashboard for department heads to review and approve leave requests from their team members*
 
 ### Process Manager Dashboard
-![Process Manager Dashboard](./frontend/public/ProcessManagerDashboard.png)
+![Process Manager Dashboard](./screenshots/ProcessManagerDashboard.png)
 *Interface for process managers to finalize approved requests with digital signatures*
 
 ### HR Dashboard
-![HR Dashboard](./frontend/public/HRDashboard.png)
+![HR Dashboard](./screenshots/HRDashboard.png)
 *Comprehensive dashboard for HR personnel with analytics and reporting capabilities*
 
-![HR Analytics](./frontend/public/HR.png)
+![HR Analytics](./screenshots/HR.png)
 *Detailed analytics view for HR showing leave trends and statistics*
 
-![HR Reports](./frontend/public/HR2.png)
+![HR Reports](./screenshots/HR2.png)
 *Report generation interface for HR to create custom reports*
 
 ## Installation & Setup
